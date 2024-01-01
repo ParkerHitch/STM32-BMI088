@@ -4,7 +4,8 @@
 #include "main.h"
 #include "Vectors.h"
 
-// Set port and pin for Gyro here
+
+// Set port and pin for accelerometer here
 #define ACCEL_CS_PORT CSA_GPIO_Port
 #define ACCEL_CS_PIN CSA_Pin
 

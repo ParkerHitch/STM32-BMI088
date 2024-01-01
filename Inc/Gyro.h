@@ -5,7 +5,7 @@
 #include "Vectors.h"
 #include <stdlib.h>
 
-// Set port and pin for Gyro here
+// Set port and pin for gyro here
 #define GYRO_CS_PORT CSG_GPIO_Port
 #define GYRO_CS_PIN CSG_Pin
 
